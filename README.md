@@ -1,17 +1,15 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+The Todo App is a very simple interface that allows the user to make and complete their very own todo list.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Users can add their own custom tasks, delete previously added tasks, and check the completion status of current tasks. Each todo item can be assigned a due date to help keep the user on track. The app also features validation so that an incomplete todo cannot be added to the list.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+The project's JavaScript is coded using Object Oreinted Programming. The design is coded with HTML and CSS and features BEM methodology.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
-
-- ADD LINK HERE
