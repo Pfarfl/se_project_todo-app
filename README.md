@@ -13,3 +13,5 @@ The project's JavaScript is coded using Object Oreinted Programming. The design 
 ## Deployment
 
 This project is deployed on GitHub Pages:
+
+https://pfarfl.github.io/se_project_todo-app/
